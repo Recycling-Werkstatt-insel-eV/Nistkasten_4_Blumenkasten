@@ -18,7 +18,7 @@ Wichtig: wenn "png" im Dateinamen klein geschrieben ist, muss es auch hier klein
 
 Zum Speichern der Datei: Commit changes (oben rechts)
 
-# Vogelhaus 1 (Name ggf. ändern) Bauanleitung
+# Vogelhaus 3 (Name ggf. ändern) Bauanleitung
 
 ## Beschreibung
 (Kurzer Einleitungstext, der das Vogelhaus beschreibt)
