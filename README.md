@@ -1,3 +1,3 @@
-# Vogelhaus 3 "Blumenkasten" (Name ggf. ändern)
+# Vogelhaus 3 "Blumenkasten"
 
 (Beschreibung des Projekts / Vogelhauses)
