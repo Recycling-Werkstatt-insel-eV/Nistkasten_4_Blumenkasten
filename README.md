@@ -1,5 +1,8 @@
 # Vogelhaus "Blumenkasten"
 ![Deckbild, Pflanzen](https://github.com/user-attachments/assets/31aa80cc-3993-4f0c-83c8-6cdb98673018)
+
+Dieses Vogelhaus verbindet gleich mehrere Funktionen: Zusaätzlich zur der Nist-Möglichkeit für verschiedene Singvogelarten beinhaltet es einen weiteren Hohlraum für eine mögliche Bepflanzung für ein natürliches Schutz- und Futter spendendes Umfeld der Vögel. Zusammenstehende Häuser können so angeordnet werden, dass sich die Pflanzen gegenseitig bewässern. Es gibt zudem verschiedene Variationen mit unterschiedlichen Einflugöffnungen und Innengrößen, egal ob Höhlen- Halbhöhlen oder Freibrüter, sich jederzeit unkompliziert austauschen lassen. 
+
 ![Deckbild_Blumenkasten](https://github.com/user-attachments/assets/a35c6934-998e-4d58-b2ac-5637165c3585)
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
