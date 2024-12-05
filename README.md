@@ -7,7 +7,6 @@ Dieses Vogelhaus verbindet gleich mehrere Funktionen: Zusätzlich zur der Nist-M
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
 Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
 Alle Infos hierzu und noch viele weitere tolle Angebote findet ihr hier: https://werkstatt.insel-ev.de/
-![Anleitung_Blumenkasten_Vogelhaus_Seite_01](https://github.com/user-attachments/assets/82042a85-cccc-41af-acf4-6e853cdcdce4)
 
 Aber nun erstmal wieder zum Projekt...
 Gefördert von der __DSEE__, der __deutschen Stiftung Engagement und Ehrenamt__ haben wir im Laufe des Jahres 2024 zusammen mit Schülergruppen, Experten vom __NABU__ und anderen klugen Köpfen getüftelt wie wir Zeiten in denen die Umwelt und Natur so schutzbedürftig wie noch nie war unseren sinnvollen Beitrag leisten können. In Ideen- und Bau- Workshops sind dabei schlussendlich die 4 Konzepte entstanden und umgesetzt worden. die wir euch hier vorstellen wollen. 
