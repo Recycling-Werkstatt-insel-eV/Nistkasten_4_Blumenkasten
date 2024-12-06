@@ -24,12 +24,15 @@ __Schritt 7__ Nun werden die Kunststoff-Front und Kunstoff-Rückwand angesetzt. 
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_11](https://github.com/user-attachments/assets/6fd56c39-7996-417d-8b7e-5695167f466f)
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_12](https://github.com/user-attachments/assets/8dd53be8-f889-4bcd-8165-5b92dd5f8f83)
 __Baugruppe 3/3__
-__Schritt 8__Füge nun die beiden Dach-Teile aus Kunstoff mit 3D Druck-Profil 3 zusammen.
+__Schritt 8__Füge nun die beiden Dach-Teile aus Kunstoff mit 3D Druck-Profil 4 zusammen.
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_13](https://github.com/user-attachments/assets/72ac21dc-266d-4247-bdb9-e1c1ea9e1af5)
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_14](https://github.com/user-attachments/assets/2ab18828-004e-4556-bd5e-5bdb0444a0f7)
 __Schritt 9__ Setze nun Baugruppe 1/2 und Baugruppe 3 zusammen. Zur Befestigung benötigst du jeweils beidseitig jeweils 2 M3 Schrauben der Länge 20-22 mm
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_15](https://github.com/user-attachments/assets/e74f0795-d2c5-43e4-96b2-817dac472d27)
 ![Anleitung_Blumenkasten_Vogelhaus_Seite_16](https://github.com/user-attachments/assets/3e41fc5a-05fb-4c51-aa53-a0b734541b4b)
+![Anleitung_Blumenkasten_Vogelhaus_Seite_17](https://github.com/user-attachments/assets/2c8b48e8-090e-4691-9d48-98943601fe7c)
+__Fertig__ Herzlichen Glückwunsch, du hast es geschafft! Jetzt musst du das Vogelhaus nur noch montieren. 
+
 
 
 
