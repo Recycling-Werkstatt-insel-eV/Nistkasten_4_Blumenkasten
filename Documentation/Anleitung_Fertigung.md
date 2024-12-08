@@ -2,17 +2,21 @@ __Anleitung zur Fertigung der einzelnen Bauteile__
 Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Blumenkasten" idealerweise vorgegnagen werden kann. Ergänzende Infos und Kaufvorschläge der Materialien sind unter "Drawings", "Materiallsite_Vogelhaus_Blumenkasten" zu finden. 
 
 __Schritt 1__ Fertigung der Holzteile
+
 Die Holzteile können aus einem einzelnen Werkstoffteil (1200/150/18
 mm) oder mehreren Brettern gefertigt werden. Entscheidend ist die Materialstärke von 18 mm (+-0.5 mm) 
 ![Maße_Holz_Komponenten_allgemein](https://github.com/user-attachments/assets/ace79ac5-c71b-4e33-96fb-10db28858783)
 __Schritt 2__ Fertigung der Kunststoffteile 
-1000/550/7
-mm
+
+Um die Rohlinge der Kunststoffteile zuzuschneiden wird eine Platte der Größe 1000/550/7 mm oder mehrere einzelne benötigt. 
+Entscheidend ist auch hier die Materialstärke von 7 mm (+- 0.5 mm) Da besonders hier sehr maßgenau gearbeitet werden muss, ist eine Nachbearbeitung der Teile nicht ausgeschlossen. 
 ![Maße_Kunststoff_Komponenten_allgemein](https://github.com/user-attachments/assets/e1bbb7f0-3812-4325-95ea-8a4ef52fe5c5)
 __Schritt 3__ Fertigung der 3D Druck Teile 
+
 Im Ordner 3D_Printing ist eine Datei mit dem Namen "STL_3D_Druck_Kompnenten" zu finden. Um alle 3D Druck Profile wie dort in einem Rutsch zu drucken muss der Drucker ein Druckbett mit einer eine Fläche von mindestens 200/250 mm aufweisen und auf 200 mm Höhe drucken können. Die einzelnen Komponenten können natürlich auch einzeln gedruckt werden. Das verwendete Material sollte wetterbeständig, formstabil und idealerweise möglichst nachhaltig sein. 
 ![Screenshot (220)](https://github.com/user-attachments/assets/7dcbe37e-320a-42c9-bafc-f180ae45f9b0)
 __Schritt 4__ Fertigung der Varianten- Schablone 
+
 Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens "Laser_Schablonen.svg" Ihr könnt die Datei nutzen um Schablonen herzustellen, die es euch möglich machen die Konturen der 5 Varianten (V1-V5) mit einem spitzen Bleistift durch die ausgelaserten Linien nachzuzeichnen. Habt ihr die Schablone also einmal gefertigt, lässt sich jede der Varianten deutlich einfacher umsetzen, als jede Linie einzeln anzuzeichnen. Diese sieht in etwa so aus  
 ![Laser_Schablonen_Übersicht](https://github.com/user-attachments/assets/7fcbe509-ae97-4043-8d28-7db81321f294)
 Alle Schablonen lassen sich gemeinsam auf einer Platte der Größe 800/320 ausschneiden. 
