@@ -1,6 +1,6 @@
 __Anleitung__
 Hier findet ihr die Bauanleitung von Vogelhaus "Blumenkasten". Achtet darauf, dass ihr alle entsprechenden Einzelteile im Voraus gefertigt habt, bevor ihr versucht die Teile zusammenzusetzen. Die Reihenfolgenach dem folgenden Prinzip ist bindend damit der Zusammenbau am Ende gut funktioniert. 
-Die folgende Anleitung wurde für nur eine der 5 dargestellten Variationen erstellt, sie funktioniert jedoch auch stellvetretend für die anderen Beispiele. 
+Die folgende Anleitung wurde konkret für die Variation "V2" erstellt, sie funktioniert jedoch auch stellvetretend für die anderen Beispiele V1-V5. 
 ![Variationen_Übersicht_außen](https://github.com/user-attachments/assets/9a38ffb6-f2df-4c7c-bee4-395877393f96)
 ![Variationen_Übersicht_innen](https://github.com/user-attachments/assets/98d2293b-3d1e-4c1a-8a9c-73d2183ae29e)
 __Bennung der Teile__ Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
