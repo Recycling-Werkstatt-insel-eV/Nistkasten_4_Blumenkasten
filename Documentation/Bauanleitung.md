@@ -4,7 +4,9 @@ Die folgende Anleitung wurde für nur eine der 5 dargestellten Variationen erste
 ![Variationen_Übersicht_außen](https://github.com/user-attachments/assets/9a38ffb6-f2df-4c7c-bee4-395877393f96)
 ![Variationen_Übersicht_innen](https://github.com/user-attachments/assets/98d2293b-3d1e-4c1a-8a9c-73d2183ae29e)
 Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt: 
-
+![B 1](https://github.com/user-attachments/assets/41c5492c-b580-4beb-bc7c-cf8ef83db0b2)
+![B 2](https://github.com/user-attachments/assets/6c09e8e4-cd52-4a5d-bbd2-d2d8ed779ce8)
+![B3](https://github.com/user-attachments/assets/f4df06cf-cae3-489c-97eb-5f9b96f51549)
 ![Anordnung_3D_Druck_Komponenten_transparent1](https://github.com/user-attachments/assets/ecf74e4b-437b-4ea0-8be2-22c671bfbd85)
 __Baugruppe 1/3__ 
 __Schritt 1__
