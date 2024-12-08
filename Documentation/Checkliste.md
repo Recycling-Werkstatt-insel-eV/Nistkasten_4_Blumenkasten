@@ -9,10 +9,6 @@ Viele Tierarten, insbesondere Vögel sind heutzutage stark bedroht. Neben andere
 2. Baue einen vorgezogenen Zwischenboden in das Vogelhaus, so wie wir es z.B. bei den Vogelhäusern "Stecksystem" und "Oskar" gemacht. In dieser Form haben die Räuber Schwierigkeiten bis zur Brut hinunter zu greifen. 
 3. Bringe den Vogelkasten idealerweise in einer Höhe von mindestens 2 Metern an, sodass es manchen Räubern schwerer fällt die Brut zu wittern und 
 diese zu erreichen. 
-
-    Die entsprechenden Maße und weitere Anregungen findet ihr beispielsweise auf der Website des Nabu Rheinland Pfalz: 
-   https://www.nabu-rlp-sued.de/artenschutz/bauanleitungen-f%C3%BCr-nisthilfen/
-   
 ![Katze und Vogel](https://github.com/user-attachments/assets/98998521-939d-4491-a29f-132df0a76924)
 __Der passende Ort__
 
