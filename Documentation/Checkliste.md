@@ -39,7 +39,8 @@ Die Materialwahl der Tierbehausung ist gleich aus mehreren Gründen besonders wi
 3. Denke an die Nachhaltigkeit deiner Materialien. Nachhaltig ist ein Material z.B. dann, wenn es sich mit der Zeit durch die äußeren Einflüsse natürlich zersetzt und komplett wieder in den biologischen Stoffkreislauf zurückgeführt werden kann. Versuche zudem möglichst keine neuen Materialien zu verwenden, sondern bereits existierende Werkstoffe neu aufzubereiten und wiederzuverwenden. Das klappt nicht immer, aber in vielen Fällen. Auch recycelter Kunststoff ist in eingen Fällen deutlich nachhaltiger als manche anderen Alternativen. Bspw. unsere Dächer bestehen aus wasserabweisendem Kunststoff um die Lebensdauer der Behausungen zu verlängern. 
 ![Material](https://github.com/user-attachments/assets/4baf9a71-71e1-49cb-82f3-ecde65d376a0)
 Wenn du möglichst viele dieser Punkte beachtest, hast du in deinem Vorhaben schon halb gewonnen.
-Viel Spaß bei der Umsetzung! 
+
+__Viel Spaß bei der Umsetzung!__ 
 
 
 
