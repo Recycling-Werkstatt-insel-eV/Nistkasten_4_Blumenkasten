@@ -8,8 +8,9 @@ __Schritt 3__ Fertigung der 3D Druck Teile
 ![Screenshot (220)](https://github.com/user-attachments/assets/7dcbe37e-320a-42c9-bafc-f180ae45f9b0)
 __Schritt 4__ Fertigung der Varianten- Schablone 
 
-Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens "Laser_Schablonen.svg" Ihr könnt die Datei nutzen um Schablonen herzustellen, die es euch möglich machen die Konturen der 5 Varianten (V1-V5) mit einem spitzen Bleistift durch die ausgelaserten Linien nachzuzeichnen. Habt ihr die Schablone also einmal gefertigt, lässt sich jede der Varianten deutlich einfacher umsetzen, als jede Linie einzeln anzuzeichnen. 
+Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens "Laser_Schablonen.svg" Ihr könnt die Datei nutzen um Schablonen herzustellen, die es euch möglich machen die Konturen der 5 Varianten (V1-V5) mit einem spitzen Bleistift durch die ausgelaserten Linien nachzuzeichnen. Habt ihr die Schablone also einmal gefertigt, lässt sich jede der Varianten deutlich einfacher umsetzen, als jede Linie einzeln anzuzeichnen. Diese sieht in etwa so aus  
 ![Laser_Schablonen_Übersicht](https://github.com/user-attachments/assets/7fcbe509-ae97-4043-8d28-7db81321f294)
+Das ideale Material ist MDF oder HDF mit einer Dicke von 3-5 mm. Auch Leimholzplatten sind denkbar, jedoch etwas weniger stabil. Einige Kuststoffsorten kommen ebenfalls in Frage.  Grundsätzlich gilt es aber ein Material zu wählen, dass überhaupt mit Industrielasern bearbeitet werden kann. Nicht geeignet, weil leicht entflammbar und gesundheitsschädlich sind bspw. PVC u. PVB. Es ist wichtig sich vor der Materialwahl und Umsetzung genauer über die entsprechenden Sicherheitsvorschriften zu informierrn.   
 ![CAD_Blumenkasten_Laservorlagen](https://github.com/user-attachments/assets/c39a5036-7ba8-423d-8a2a-dae85535edfc)
 
 
