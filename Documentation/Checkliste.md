@@ -1,6 +1,6 @@
+Unabhängig davon ob ihr eines der Vogelhäuser nachbaut, weiternetwickelt oder einen ganz neuen Entwurf bauen und aufhängen wollt, gibt es einige wichtige Dinge zu beachten, die für die Umwelt, die Tiere und den Erfolg des Projekts mehr oder weniger wichtig sein können. 
+Hier findet ihr eine Übersicht an Checkpunkten an denen wir uns oriententiert haben. 
 
-Material
-![Material](https://github.com/user-attachments/assets/4baf9a71-71e1-49cb-82f3-ecde65d376a0)
 Katze
 ![Katze und Vogel](https://github.com/user-attachments/assets/98998521-939d-4491-a29f-132df0a76924)
 Garten
@@ -11,8 +11,8 @@ Reinigung
 ![ty](https://github.com/user-attachments/assets/e4ba195c-2f47-404b-9812-1eeecb3d0dc7)
 Nagel
 ![gtz](https://github.com/user-attachments/assets/36b25c53-d1dc-469c-b063-bda217d3ffbf)
-
-
+Material
+![Material](https://github.com/user-attachments/assets/4baf9a71-71e1-49cb-82f3-ecde65d376a0)
 
 
 
