@@ -3,6 +3,9 @@ Hier findet ihr die Bauanleitung von Vogelhaus "Blumenkasten". Achtet darauf, da
 Die folgende Anleitung wurde für nur eine der 5 dargestellten Variationen erstellt, sie funktioniert jedoch auch stellvetretend für die anderen Beispiele. 
 ![Variationen_Übersicht_außen](https://github.com/user-attachments/assets/9a38ffb6-f2df-4c7c-bee4-395877393f96)
 ![Variationen_Übersicht_innen](https://github.com/user-attachments/assets/98d2293b-3d1e-4c1a-8a9c-73d2183ae29e)
+Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt: 
+
+![Anordnung_3D_Druck_Komponenten_transparent1](https://github.com/user-attachments/assets/ecf74e4b-437b-4ea0-8be2-22c671bfbd85)
 __Baugruppe 1/3__ 
 __Schritt 1__
 Schiebe die Holzteile: Frontwand und die Rückwand mit den beiden Innenwänden wie folgt zusammen und fixiere sie beidseitig mit jeweils 4 der M3 Schrauben der Länge 38-42 mm. Tipp: Du kannst die Teile mit Schraubzwingen oder einem Schraubstock zuvor in position halten. Achte grundsätzlich darauf, dass die Teile möglichst bündig und in richtiger Postition zueinander stehen! 
