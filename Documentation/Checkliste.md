@@ -1,3 +1,5 @@
+# Checkliste
+
 Unabhängig davon ob ihr eines der Vogelhäuser nachbaut, weiterentwickelt oder einen ganz neuen Entwurf kreiren und aufhängen wollt, gibt es einige wichtige Dinge zu beachten, die für die Umwelt, die Tiere und den Erfolg des Projekts mehr oder weniger wichtig sein können. 
 Hier findet ihr eine Übersicht an Checkpunkten an denen wir uns oriententiert haben. 
 
