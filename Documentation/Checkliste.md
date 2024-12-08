@@ -17,7 +17,8 @@ Es sollte dort möglichst viel unterschiedliche Vegetation geben, die für viele
 ![4](https://github.com/user-attachments/assets/ce4b2f9a-68dd-41b1-8e4a-29ca5a5a7656)
 __Die richtigen Maße__
 
-Unter dem obigen Link findet ihr die Maße für Vogelhäuser, welche sich etabliert haben um möglichst viele Vogelarten zu erreichen, indem sie gerade groß genug sind und entsprechend Material sparen. Es reicht aber wenn sie euch als ungefährer Anhaltspunkt dienen. 
+Unter dem folgenden Link https://www.nabu-rlp-sued.de/artenschutz/bauanleitungen-f%C3%BCr-nisthilfen/ 
+des Nabu Rheinland Pfalz findet ihr viele Infos zu dem Thema, auch die Maße für Vogelhäuser, welche sich etabliert haben um möglichst viele Vogelarten zu erreichen, indem sie gerade groß genug sind und entsprechend Material sparen. Es reicht aber wenn sie euch als ungefährer Anhaltspunkt dienen. 
 ![333](https://github.com/user-attachments/assets/6853df92-69d1-453e-8f7a-dddd813344bb)
 __Reinigung des Nistkastens__
 
