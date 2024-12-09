@@ -12,7 +12,9 @@ __Variationen V1-V5 Frontansicht außen__
 ![Variationen_Übersicht_außen](https://github.com/user-attachments/assets/9c781ddd-bdee-4c47-952f-59ec0893bde6)
 __Variationen V1-V5 Frontansicht innen__
 ![Variationen_Übersicht_innen](https://github.com/user-attachments/assets/991428e8-8911-494f-ba20-02feb84416b5)
-__Benennung der Teile__ Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
+__Benennung der Teile__ 
+
+Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
 ![B 1](https://github.com/user-attachments/assets/41c5492c-b580-4beb-bc7c-cf8ef83db0b2)
 ![B 2](https://github.com/user-attachments/assets/6c09e8e4-cd52-4a5d-bbd2-d2d8ed779ce8)
 ![B3](https://github.com/user-attachments/assets/f4df06cf-cae3-489c-97eb-5f9b96f51549)
