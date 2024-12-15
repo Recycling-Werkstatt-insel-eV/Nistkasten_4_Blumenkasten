@@ -15,7 +15,8 @@ __Schritt 3__ Fertigung der 3D Druck Teile
 
 Im Ordner 3D_Printing ist eine Datei mit dem Namen "STL_3D_Druck_Kompnenten" zu finden. Um alle 3D Druck Profile wie dort in einem Rutsch zu drucken muss der Drucker ein Druckbett mit einer eine Fläche von mindestens 200/250 mm aufweisen und auf 200 mm Höhe drucken können. Die einzelnen Komponenten können natürlich auch einzeln gedruckt werden. Das verwendete Material sollte wetterbeständig, formstabil und idealerweise möglichst nachhaltig sein. Die Anordnung Ausrichtung der Teile für ein ideales Ergebnis ohne Stützmaterial und entsprechend überflüssige Nachbarbeitung sieht wie folgt aus: 
 ![Screenshot (220)](https://github.com/user-attachments/assets/7dcbe37e-320a-42c9-bafc-f180ae45f9b0)
-Du findest die entsprechende 3D-Druck Datei [hier](./3D_printing/STL_3D_Druck_Komponenten.STL)
+Du findest die entsprechende 3D-Druck Datei [hier](../3D_printing/STL_3D_Druck_Komponenten.STL)
+
 __Schritt 4__ Fertigung der Varianten- Schablone 
 
 Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens "Laser_Schablonen.svg" Ihr könnt die Datei nutzen um Schablonen herzustellen, die es euch möglich machen die Konturen der 5 Varianten (V1-V5) mit einem spitzen Bleistift durch die ausgelaserten Linien nachzuzeichnen. Habt ihr die Schablone also einmal gefertigt, lässt sich jede der Varianten deutlich einfacher umsetzen, als jede Linie einzeln anzuzeichnen. Diese sieht in etwa so aus:   
