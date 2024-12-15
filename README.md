@@ -6,7 +6,9 @@ Dieses Vogelhaus verbindet gleich mehrere Funktionen: Zusätzlich zur der Nist-M
 
 __Du möchtest dieses Vogelhaus bauen?__
 Dann hilft dir folgendes sich sich in dem Projekt zurechtzufinden: Zu Beginn ist es sinnvoll, dass du dir eine Übersicht durch die bereitgestellte [Checkliste](./Documentation/Checkliste.md) verschaffst. Was du an Materialien für benötigst, findest du in der [Materialliste](./Drawings/Materialliste_Vogelhaus_Blumenkasten.pdf) Anschließend kannst du dir die [Fertigungsanleitung](./Documentation/Anleitung_Fertigung.md) der einzelnen Komponenten ansehen. Je gewissenhafter du diese befolgt hast, desto einfacher wird im Anschluss der [Zusammenbau](./Documentation/Anleitung_Zusammenbau.md) der Behausung. 
-Solltest du dir diese Infos bereits angeschaut und beschlossen haben, dass du das Vogelhaus weiterentwickeln möchtest, könnten dir die beigefügten [CAD-Dateien im STEP-Format](./CAD) und die [CAD- Dateien im STL-Format](./3D_printing/CAD_Blumenkasten_Vogelhaus.STL) hilfreich sein. 
+Solltest du dir diese Infos bereits angeschaut und beschlossen haben, dass du das Vogelhaus weiterentwickeln möchtest, 
+könnten dir die beigefügten [CAD-Dateien im STEP-Format](./CAD) und die
+[CAD- Dateien im STL-Format](./3D_printing/CAD_Blumenkasten_Vogelhaus.STL) hilfreich sein. 
 
 __Allgemeines zum Projekt__
 
