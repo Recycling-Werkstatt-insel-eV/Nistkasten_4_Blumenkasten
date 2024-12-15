@@ -14,8 +14,10 @@ Entscheidend ist auch hier die Materialstärke von 7 mm (+- 0.5 mm) Da besonders
 __Schritt 3__ Fertigung der 3D Druck Teile 
 
 Im Ordner 3D_Printing ist eine Datei mit dem Namen "STL_3D_Druck_Kompnenten" zu finden. Um alle 3D Druck Profile wie dort in einem Rutsch zu drucken muss der Drucker ein Druckbett mit einer eine Fläche von mindestens 200/250 mm aufweisen und auf 200 mm Höhe drucken können. Die einzelnen Komponenten können natürlich auch einzeln gedruckt werden. Das verwendete Material sollte wetterbeständig, formstabil und idealerweise möglichst nachhaltig sein. Die Anordnung Ausrichtung der Teile für ein ideales Ergebnis ohne Stützmaterial und entsprechend überflüssige Nachbarbeitung sieht wie folgt aus: 
-![Screenshot (220)](https://github.com/user-attachments/assets/7dcbe37e-320a-42c9-bafc-f180ae45f9b0)
+
 Du findest die entsprechende 3D-Druck Datei [hier](../3D_printing/STL_3D_Druck_Komponenten.STL)
+![Screenshot (220)](https://github.com/user-attachments/assets/7dcbe37e-320a-42c9-bafc-f180ae45f9b0)
+
 
 __Schritt 4__ Fertigung der Varianten- Schablone 
 
@@ -23,7 +25,7 @@ Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens
 ![Laser_Schablonen_Übersicht](https://github.com/user-attachments/assets/7fcbe509-ae97-4043-8d28-7db81321f294)
 
 Alle Schablonen lassen sich gemeinsam aus einer Platte der Größe 800/320 mm ausschneiden. 
-Das ideale Material ist MDF oder HDF mit einer Dicke von 3-5 mm. Auch Leimholzplatten sind denkbar, jedoch etwas weniger stabil. Einige Kuststoffsorten kommen ebenfalls in Frage.  Grundsätzlich gilt es aber ein Material zu wählen, dass überhaupt mit Industrielasern bearbeitet werden kann. Nicht geeignet, weil leicht entflammbar und gesundheitsschädlich sind bspw. PVC u. PVB. Es ist wichtig sich vor der Materialwahl und Umsetzung genauer über die entsprechenden Sicherheitsvorschriften zu informieren.   
+Das ideale Material ist MDF oder HDF mit einer Dicke von 3-5 mm. Auch Leimholzplatten sind denkbar, jedoch etwas weniger stabil. Einige Kuststoffsorten kommen ebenfalls in Frage.  Grundsätzlich gilt es aber ein Material zu wählen, dass überhaupt mit Industrielasern bearbeitet werden kann. Nicht geeignet, weil leicht entflammbar und gesundheitsschädlich sind bspw. PVC u. PVB. Es ist wichtig sich vor der Materialwahl und Umsetzung genauer über die entsprechenden Sicherheitsvorschriften zu informieren. Du findest die Schablone [hier](../  
 ![CAD_Blumenkasten_Laservorlagen](https://github.com/user-attachments/assets/c39a5036-7ba8-423d-8a2a-dae85535edfc)
 
 
