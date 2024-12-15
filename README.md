@@ -5,7 +5,7 @@ Dieses Vogelhaus verbindet gleich mehrere Funktionen: Zusätzlich zur der Nist-M
 ![Deckbild_Blumenkasten](https://github.com/user-attachments/assets/a35c6934-998e-4d58-b2ac-5637165c3585)
 
 __Du möchtest dieses Vogelhaus bauen?__
-Dann hilft dir folgendes sich sich in dem Projekt zurechtzufinden: Zu Beginn ist es sinnvoll, dass du dir eine Übersicht durch die bereitgestellte [Checkliste] verschaffst. Was du an Materialien für benötigst, findest du in der [Materialliste] Anschließend kannst du dir die [Fertigungsanleitung] der einzelnen Komponenten ansehen. Je gewissenhafter du diese befolgt hast, desto einfacher wird im Anschluss der [Zusammenbau] der Behausung. 
+Dann hilft dir folgendes sich sich in dem Projekt zurechtzufinden: Zu Beginn ist es sinnvoll, dass du dir eine Übersicht durch die bereitgestellte [Checkliste] verschaffst. Was du an Materialien für benötigst, findest du in der [Materialliste] Anschließend kannst du dir die [Fertigungsanleitung](./Documentation/Anleitung_Fertigung.md) der einzelnen Komponenten ansehen. Je gewissenhafter du diese befolgt hast, desto einfacher wird im Anschluss der [Zusammenbau] der Behausung. 
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
 Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
