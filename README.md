@@ -11,7 +11,7 @@ Solltest du dir diese Infos bereits angeschaut und beschlossen haben, dass du da
 könnten dir die beigefügten [CAD-Dateien im STEP-Format](./CAD) und die
 [CAD- Dateien im STL-Format](./3D_printing/CAD_Blumenkasten_Vogelhaus.STL) hilfreich sein. 
 
-__Allgemeines zum Projekt__
+# Allgemeines zum Projekt
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen Recycling-Werkstatt von Insel e.V. in Hamburg.
 Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
