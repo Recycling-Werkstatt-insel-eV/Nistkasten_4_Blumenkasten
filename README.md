@@ -27,6 +27,6 @@ Hier sind die Links zu den Projektübersichten der anderen Vogelhäuser:
 
 [Vogelhaus "Ivonne"](https://github.com/orcular-orga/vogelhaus1/blob/main/README.md)
 
-[Vogelhaus "Oskar"](https://github.com/orcular-orga/vogelhaus_ws)
+["Workshop Nistkasten"](https://github.com/orcular-orga/vogelhaus_ws)
 
 
