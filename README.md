@@ -22,6 +22,6 @@ Besonders wichtig war uns unter anderem, dass die verwendeten Materialien mögli
 Aber wie das halt so ist... Kein Entwurf ist perfekt durchdacht. Und genau da kommt ihr ins Spiel. Wir wollen unser Projekt der Community zur Verfügung stellen und euch herzlich einladen die Vogelhäuser __nachzubauen, oder sogar weiterzuentwickeln__. Die Informationen, die  ihr genau dafür benötigt und wie ihr Schritt für Schritt vorgeht, findet ihr in den beiligenden Vogelhaus-Projekten. Von eher unkomplizierten Ideen, die mit einfachen Handwerkzeugen gefertigt werden können, bis hin zu gelaserten oder CNC- gefrästen z.T. herausfordernden Systemen ist für jeden etwas dabei. Alles kann nichts muss und das gilt auch für die euch zur Verfügung stehenden Mittel. Von uns kommen einige gut gemeinte Ratschläge für die Umsetzung, fühlt euch jedoch gerne frei manches im Sinn eurer Möglichkeiten anders zu machen. Schaut euch gerne um welches Vogelhaus etwas für euch ist, viel Spaß beim bauen und weiterdenken! 
 
 Die anderen Nistkasten-Entwürfe im Rahmen des Projekts findest du hier:
-[Nistkasten Projekt Übersicht](https://deref-web.de/mail/client/2dBB9Ya4DFc/dereferrer/?redirectUrl=https%3A%2F%2Fgithub.com%2Forcular-orga%2Fvogelhaus_uebersicht)
+https://deref-web.de/mail/client/2dBB9Ya4DFc/dereferrer/?redirectUrl=https%3A%2F%2Fgithub.com%2Forcular-orga%2Fvogelhaus_uebersicht
 
 
