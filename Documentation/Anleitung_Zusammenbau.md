@@ -33,11 +33,14 @@ __Schritt 4__ Nun schiebe wie folgt die beiden "Innenwände Kunstoff" (200 x 150
 __Baugruppe 2/3__
 
 __Schritt 5__ Schiebe nun die äußeren "Seitenwände Kunststoff a und b" in das 3D Druck "Profil 2". 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_08.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_09.jpg) 
 __Schritt 6__ Setze nun beide Baugruppen zusammen, indem du die 3D Druck "Profile 3a und 3b" folgendermaßen positionierst: 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_10.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_11.jpg) 
 __Schritt 7__ Nun werden die "Front Kunststoff" und "Rückwand Kunststoff" angesetzt. Diese werden mit jeweils 3 M3 Schrauben der Länge 20-22 mm befestigt. 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_12.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_13.jpg) 
 __Baugruppe 3/3__
 
 __Schritt 8__ Füge nun die beiden Teile "Dach a und b" aus Kunstoff mit 3D Druck-"Profil 4" zusammen.
