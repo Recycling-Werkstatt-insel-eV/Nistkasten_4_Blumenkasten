@@ -16,8 +16,8 @@ __Benennung der Teile__
 
 Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
 
-![](B 1.jpg) xxx
-![](B 2.jpg)
+![](B1.jpg) 
+![](B2.jpg)
 ![](B3.JPG) 
 
 __Baugruppe 1/3__ 
