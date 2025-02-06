@@ -27,9 +27,9 @@ __Schritt 2__ Ergänze nun das untere 3D Druck "Profil 1" und fixiere dies mit b
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_04.jpg) 
 __Schritt 3__ Schiebe das Teil "Bodenplatte Holz" des Hauses seitlich in die entstandene Lücke. 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_05.jpg) 
-![](Anleitung_Blumenkasten_Vogelhaus_Seite_06.jpg) 
 __Schritt 4__ Nun schiebe wie folgt die beiden "Innenwände Kunstoff" (200 x 150 m) schräg hinein. Achte darauf, dass die beiden Teile bis zum Anschlag in dem unteren 3D Druck "Profil 1" einrasten. Nun fixiere die Teile durch die vorgesehenen Löcher mit jeweils 2 Schrauben M3 der Länge 20-22 mm.  
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_06.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_07.jpg) 
 __Baugruppe 2/3__
 
 __Schritt 5__ Schiebe nun die äußeren "Seitenwände Kunststoff a und b" in das 3D Druck "Profil 2". 
