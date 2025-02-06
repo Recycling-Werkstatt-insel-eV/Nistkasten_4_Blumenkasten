@@ -12,7 +12,7 @@ könnten dir die beigefügten [CAD-Dateien im STEP-Format](./CAD) und die [CAD- 
 # Allgemeines zum Projekt
 
 Bei diesem Vogelhaus handelt es sich um einen von __4 Entwürfen__ aus einer Reihe innerhalb eines Projekts, in dem wir uns zur Aufgabe gemacht haben, kreative innovative und nachhaltige Ideen für Tierbehausungen zu finden und alte Lösungen zu überdenken. Unseren Fokus haben wir auf Vogelbehausungen gelegt. Und wer sind "wir"? Wir sind Oskar und Peter aus der offenen [Recycling-Werkstatt von Insel e.V.](https://werkstatt.insel-ev.de/) in Hamburg. Besucht uns gerne auf unserer Website oder noch besser persönlich, wir freuen uns auf euch! 
-![](Documentation/UEjpg) 
+![](Documentation/UE.jpg) 
 Gefördert von der [deutschen Stiftung Engagement und Ehrenamt](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/) haben wir im Laufe des Jahres 2024 zusammen mit Schülergruppen, Experten vom [NABU](https://www.nabu.de/) und anderen klugen Köpfen getüftelt wie wir Zeiten in denen die Umwelt und Natur so schutzbedürftig wie noch nie war unseren sinnvollen Beitrag leisten können. In Ideen- und Bau- Workshops sind dabei schlussendlich die 4 Konzepte entstanden und umgesetzt worden, die wir euch hier vorstellen wollen. 
 
 __Und was macht unsere Entwürfe besonders?__
