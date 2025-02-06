@@ -19,7 +19,7 @@ Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind
 ![](B1.jpg) 
 ![](B2.jpg)
 ![](B3.JPG) 
-
+![](Anordnung_3D_Druck_Komponenten_transparent1.png) 
 __Baugruppe 1/3__ 
 
 __Schritt 1__
