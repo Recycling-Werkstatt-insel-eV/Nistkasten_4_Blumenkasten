@@ -15,7 +15,9 @@ __Variationen V1-V5 Frontansicht innen__
 __Benennung der Teile__ 
 
 Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
-
+![](B 1.jpg) xxx
+![](B 2.jpg) xxx
+![](B3.jpg) 
 __Baugruppe 1/3__ 
 
 __Schritt 1__
