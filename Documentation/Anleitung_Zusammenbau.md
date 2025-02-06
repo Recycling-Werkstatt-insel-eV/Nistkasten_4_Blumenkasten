@@ -9,13 +9,9 @@ __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 3. Schleifpapier (Körnung 80-200) oder Holzpfeilen für Korrekturen oder abschließende Schönheitsarbeiten.  
 
 __Variationen V1-V5 Frontansicht außen__
-
-![](V_in.jpg)
-
+![](V_out.jpg)
 __Variationen V1-V5 Frontansicht innen__
-
-![](Documentation/Variationen_Übersicht_innen.jpg)
-
+![](V_in.jpg)
 __Benennung der Teile__ 
 
 Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind diese folgendermaßen benannt worden: 
