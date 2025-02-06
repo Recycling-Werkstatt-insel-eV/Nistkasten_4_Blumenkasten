@@ -1,6 +1,6 @@
 # Vogelhaus "Blumenkasten"
 Dieses Vogelhaus verbindet gleich mehrere Funktionen: Zusätzlich zur der Nist-Möglichkeit für verschiedene Singvogelarten beinhaltet es einen weiteren Hohlraum für eine mögliche Bepflanzung und somit ein natürliches Schutz- und Futter spendendes Umfeld der Vögel. Zusammenstehende Behausungen können so angeordnet werden, dass sie ihre Pflanzen gegenseitig bewässern. Es gibt zudem verschiedene Variationen mit unterschiedlichen Einflugöffnungs- Formen und Größen, egal ob Höhlen- Halbhöhlen oder Freibrüter, wobei sich die jeweiligen Teile jederzeit unkompliziert austauschen lassen.
-![](D1.jpg) 
+![](Documentation/D1.jpg) 
 
 
 __Du möchtest dieses Vogelhaus bauen?__
