@@ -21,7 +21,7 @@ Du findest die entsprechende 3D-Druck Datei [hier](../3D_printing/STL_3D_Druck_K
 
 
 __Schritt 4__ Fertigung der Varianten- Schablone 
-
+![](Laser_Schablonen_Übersicht.jpg)
 Im Ordner "Drawings" findet ihr neben den Bemaßungen auch eine SVG Datei namens "Laser_Schablonen.svg" Ihr könnt die Datei nutzen um Schablonen herzustellen, die es euch möglich machen die Konturen der 5 Varianten (V1-V5) mit einem spitzen Bleistift durch die ausgelaserten Linien nachzuzeichnen. Habt ihr die Schablone also einmal gefertigt, lässt sich jede der Varianten deutlich einfacher umsetzen, als jede Linie einzeln anzuzeichnen. Diese sieht in etwa so aus:   
 
 
