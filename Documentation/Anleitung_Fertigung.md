@@ -10,6 +10,7 @@ __Schritt 2__ Fertigung der Kunststoffteile
 
 Um die Rohlinge der Kunststoffteile zuzuschneiden wird eine Platte der Größe 1000/550/7 mm oder mehrere einzelne benötigt. 
 Entscheidend ist auch hier die Materialstärke von 7 mm (+- 0.5 mm) Da besonders hier sehr maßgenau gearbeitet werden muss, ist eine Nachbearbeitung der Teile nicht ausgeschlossen. Idealerweise sollten diese Komponenten mit einer Tischkreissäge, Tauchsäge oder Formatkreissäge umgesetzt werden.   
+![](Maße_Kunststoff_Komponenten_allgemein.jpg)
 
 __Schritt 3__ Fertigung der 3D Druck Teile 
 
