@@ -29,7 +29,7 @@ Alle Schablonen lassen sich gemeinsam aus einer Platte der Größe 800/320 mm au
 Das ideale Material ist MDF oder HDF mit einer Dicke von 3-5 mm. Auch Leimholzplatten sind denkbar, jedoch etwas weniger stabil. Einige Kuststoffsorten kommen ebenfalls in Frage.  Grundsätzlich gilt es aber ein Material zu wählen, dass überhaupt mit Industrielasern bearbeitet werden kann. Nicht geeignet, weil leicht entflammbar und gesundheitsschädlich sind bspw. PVC u. PVB. Es ist wichtig sich vor der Materialwahl und Umsetzung genauer über die entsprechenden Sicherheitsvorschriften zu informieren. 
 
 Du findest die Schablonensammlung [hier](../Drawings/Laser_Schablonen.svg) 
-![](Documentation/CAD_Blumenkasten_Laservorlagen.jpg)
+![](CAD_Blumenkasten_Laservorlagen.jpg)
 
 
 
