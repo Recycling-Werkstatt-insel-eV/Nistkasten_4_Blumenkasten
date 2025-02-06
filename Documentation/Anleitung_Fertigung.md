@@ -5,7 +5,7 @@ Hier und im folgenden ist beschrieben wie beim Bau von Vogelhaus "Blumenkasten" 
 __Schritt 1__ Fertigung der Holzteile
 
 Die Holzteile können aus einem einzelnen Werkstoffteil (1200/150/18mm) oder mehreren Brettern gefertigt werden. Entscheidend ist die Materialstärke von 18 mm (+-0.5 mm). Da auch schräge Schnitte notwendig sind sollten diese Komponenten mit einer Tischkreissäge, Tauchsäge oder Formatkreissäge umgesetzt werden.  
-
+![](Maße_Holz_Komponenten_allgemein.jpg)
 __Schritt 2__ Fertigung der Kunststoffteile 
 
 Um die Rohlinge der Kunststoffteile zuzuschneiden wird eine Platte der Größe 1000/550/7 mm oder mehrere einzelne benötigt. 
