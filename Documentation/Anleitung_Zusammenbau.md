@@ -10,7 +10,7 @@ __Benötigte Werkzeuge und Hilfsstoffe für den Zusammenbau__
 
 __Variationen V1-V5 Frontansicht außen__
 
-![](Documentation/Variationen_Übersicht_außen.jpg)
+![](V_in.jpg)
 
 __Variationen V1-V5 Frontansicht innen__
 
