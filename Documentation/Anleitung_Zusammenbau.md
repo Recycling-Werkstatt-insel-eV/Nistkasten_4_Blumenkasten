@@ -20,13 +20,14 @@ __Baugruppe 1/3__
 
 __Schritt 1__
 Schiebe die Teile "Frontwand Holz" und "Rückwand Holz" mit den beiden "Seitenwänden a und b"  wie folgt zusammen und fixiere sie beidseitig mit jeweils 4 der M3 Schrauben der Länge 38-42 mm. Tipp: Du kannst die Teile mit Schraubzwingen oder einem Schraubstock zuvor in position halten. Achte grundsätzlich darauf, dass die Teile möglichst bündig und in richtiger Postition zueinander stehen! 
-
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_01.jpg) 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_02.jpg) 
 __Schritt 2__ Ergänze nun das untere 3D Druck "Profil 1" und fixiere dies mit beidseitig mit 2 M3 Schrauben der Länge 38-42 mm. 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_03.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_04.jpg) 
 __Schritt 3__ Schiebe das Teil "Bodenplatte Holz" des Hauses seitlich in die entstandene Lücke. 
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_05.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_06.jpg) 
 __Schritt 4__ Nun schiebe wie folgt die beiden "Innenwände Kunstoff" (200 x 150 m) schräg hinein. Achte darauf, dass die beiden Teile bis zum Anschlag in dem unteren 3D Druck "Profil 1" einrasten. Nun fixiere die Teile durch die vorgesehenen Löcher mit jeweils 2 Schrauben M3 der Länge 20-22 mm.  
 
 __Baugruppe 2/3__
