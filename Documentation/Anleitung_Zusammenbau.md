@@ -37,16 +37,18 @@ __Schritt 5__ Schiebe nun die äußeren "Seitenwände Kunststoff a und b" in das
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_09.jpg) 
 __Schritt 6__ Setze nun beide Baugruppen zusammen, indem du die 3D Druck "Profile 3a und 3b" folgendermaßen positionierst: 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_10.jpg) 
-![](Anleitung_Blumenkasten_Vogelhaus_Seite_11.jpg) 
 __Schritt 7__ Nun werden die "Front Kunststoff" und "Rückwand Kunststoff" angesetzt. Diese werden mit jeweils 3 M3 Schrauben der Länge 20-22 mm befestigt. 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_11.jpg) 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_12.jpg) 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_13.jpg) 
 __Baugruppe 3/3__
 
 __Schritt 8__ Füge nun die beiden Teile "Dach a und b" aus Kunstoff mit 3D Druck-"Profil 4" zusammen.
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_14.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_15.jpg) 
 __Schritt 9__ Setze nun Baugruppe 1/2 und Baugruppe 3 zusammen. Zur Befestigung benötigst du beidseitig jeweils 2 M3 Schrauben der Länge 20-22 mm
-
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_16.jpg) 
+![](Anleitung_Blumenkasten_Vogelhaus_Seite_17.jpg) 
 __Fertig__ Herzlichen Glückwunsch, du hast es geschafft! Jetzt musst du das Vogelhaus nur noch montieren. Bohre hierfür abschließend Löcher nach deinen eingenen Vorstellungen in die Rückwand des Hauses und befestige dieses mit Haken oder Bändern entsprechend deinen Vorstellungen. 
 
 
