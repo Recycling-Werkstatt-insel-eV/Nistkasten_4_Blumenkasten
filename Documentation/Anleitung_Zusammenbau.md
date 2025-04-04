@@ -23,7 +23,7 @@ Um die teilweise ähnlichen Teile für den Zusammenbau bestimmen zu können sind
 __Baugruppe 1/3__ 
 
 __Schritt 1__
-Schiebe die Teile "Frontwand Holz" und "Rückwand Holz" mit den beiden "Seitenwänden a und b"  wie folgt zusammen und fixiere sie beidseitig mit jeweils 4 der M3 Schrauben der Länge 38-42 mm. Tipp: Du kannst die Teile mit Schraubzwingen oder einem Schraubstock zuvor in position halten. Achte grundsätzlich darauf, dass die Teile möglichst bündig und in richtiger Postition zueinander stehen! 
+Schiebe die Teile "Frontwand Holz" und "Rückwand Holz" mit den beiden "Seitenwänden a und b"  wie folgt zusammen und fixiere sie beidseitig mit jeweils 4 der M3 Schrauben der Länge 38-42 mm. Tipp: Du kannst die Teile mit Schraubzwingen oder einem Schraubstock zuvor in Position halten. Achte grundsätzlich darauf, dass die Teile möglichst bündig und in richtiger Postition zueinander stehen! 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_01.jpg) 
 ![](Anleitung_Blumenkasten_Vogelhaus_Seite_02.jpg) 
 __Schritt 2__ Ergänze nun das untere 3D Druck "Profil 1" und fixiere dies mit beidseitig mit 2 M3 Schrauben der Länge 38-42 mm. 
