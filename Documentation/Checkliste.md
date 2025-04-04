@@ -8,7 +8,7 @@ __Schutz vor Nesträubern__
 Viele Tierarten, insbesondere Vögel sind heutzutage stark bedroht. Neben anderen Faktoren sind Nesträuber wie Waschbären, Marder und Hauskatzen dafür verantwortwortlich. Um zu verhindern, dass diese Tiere die Brut der Singvögel bedrohen gibt es bewährte Maßnahmen:
 
 1. Gestalte die Einflugöffnung gerade so groß, dass nur der Nistvogel und vergleichbargroße Arten durchpassen.
-2. Baue einen vorgezogenen Zwischenboden in das Vogelhaus, (so wie wir es z.B. bei den Vogelhäusern "Stecksystem" und "Oskar" gemacht haben).
+2. Baue einen vorgezogenen Zwischenboden in das Vogelhaus, (so wie wir es z.B. bei den Vogelhäusern Nr. 2 und Nr. 3 gemacht haben).
    In dieser Form haben die Räuber Schwierigkeiten bis zur Brut hinunter zu greifen. 
 4. Bringe den Vogelkasten idealerweise in einer Höhe von mindestens 2 Metern an, sodass es manchen Räubern schwerer fällt die Brut zu wittern und 
 diese zu erreichen.
@@ -18,7 +18,7 @@ diese zu erreichen.
 __Der passende Ort__
 
 Achte zudem darauf, dass du für dein Vogelhaus einen geeigneten Ort findest, wo sich die Tiere natürlicherweise wohl fühlen. 
-Es sollte dort möglichst viel unterschiedliche Vegetation geben, die für viele Lebewesen einen Rückzugsort zum Verstecken und eine wichtige Nahrungsgrundlage bietet. Nur in einem gesunden Ökosystem siedeln sich auch Vögel an um dort zu brüten. Ich denke es sollte klar sein welches der beiden folgenden Beispiele auf dem Bild geeigneter ist.  
+Es sollte dort möglichst viel unterschiedliche Vegetation geben, die für viele Lebewesen einen Rückzugsort zum Verstecken und eine wichtige Nahrungsgrundlage bietet. Nur in einem gesunden Ökosystem siedeln sich auch Vögel an um dort zu brüten. Bei den beiden folgenden Beispielen sollte relativ klar ersichtlich sein, wo sich Tiere gut verstecken können und genügend Nahrung finden:  
 
 ![](Checkliste0.jpg)
 
